@@ -1,0 +1,8 @@
+exclude:
+  - script
+  - ".gitignore"
+  - Gemfile
+  - Gemfile.lock
+  - readme.md
+pygments: true
+markdown: kramdown
