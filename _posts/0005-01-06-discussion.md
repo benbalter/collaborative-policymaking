@@ -2,4 +2,4 @@
 title: The discussion
 ---
 
-![discussion](/images/discussion.png)
+![discussion](images/discussion.png)

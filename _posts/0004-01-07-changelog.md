@@ -1,1 +1,1 @@
-![changelog](/images/changelog.png)
+![changelog](images/changelog.png)

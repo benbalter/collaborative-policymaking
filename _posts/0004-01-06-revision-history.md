@@ -1,1 +1,1 @@
-![revision history](/images/revision-history.png)
+![revision history](images/revision-history.png)

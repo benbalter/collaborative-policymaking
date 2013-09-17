@@ -1,1 +1,1 @@
-![merged pull requests](/images/pull-requests.png)
+![merged pull requests](images/pull-requests.png)

@@ -2,4 +2,4 @@
 hide_title: true
 ---
 
-![project open data](/images/pod.png)
+![project open data](images/pod.png)

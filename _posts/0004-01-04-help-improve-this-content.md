@@ -2,4 +2,4 @@
 hide_title: true
 ---
 
-![improve this content](/images/improve.png)
+![improve this content](images/improve.png)
